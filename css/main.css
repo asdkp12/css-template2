@@ -275,6 +275,7 @@ section.contents .project .animate li {
 }
 section.contents .project .animate li:hover img {
     opacity: 0.1;
+    transition: 0.7s;
 }
 
 section.contents .project .animate li .name {
